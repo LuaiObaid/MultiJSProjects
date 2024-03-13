@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "03-reviews",
+			"path": "../../javascript-basic-projects/03-reviews"
+		},
+		{
+			"name": "MultiJSProjects",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MultiJSProjects"
+	}
+}
