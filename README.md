@@ -13,7 +13,8 @@
 ![Card Reviews](./card%20Reviews/reviews.PNG)
 
 #project four responsive navbar 
-
+#image one 
 ![navBar](./navbar/navbar.PNG)
-![Res navBar](./navbar/resNavbar.PNG)
+#image two
+![ResnavBar](./navbar/resNavbar.PNG)
 
